@@ -1,0 +1,16 @@
+SHELL SERRALHERIA — SITE PARA GITHUB PAGES
+
+1. Abra index.html no navegador para visualizar localmente.
+2. IMPORTANTE: abra script.js e altere WHATSAPP_NUMERO = '' para o número
+   da Shell Serralheria, no formato 55 + DDD + número, somente dígitos.
+   Exemplo fictício: '5587999999999' — substitua pelo número verdadeiro.
+3. Você pode editar textos no index.html, cores no style.css e imagens na pasta assets/.
+4. Para publicar: crie um repositório público no GitHub, envie todos os arquivos
+   mantendo a pasta assets/ e entre em Settings > Pages > Deploy from a branch >
+   main / (root) > Save. Aguarde o GitHub gerar a URL.
+5. As imagens do catálogo são ilustrativas geradas por IA; não são fotos de serviços
+   efetivamente executados pela empresa. Substitua por fotos reais quando possível.
+6. Não incluímos depoimentos fictícios.
+7. O formulário não armazena informações: só prepara a mensagem no WhatsApp.
+
+Desenvolvimento: Dev Kayko
